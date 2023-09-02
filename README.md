@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nageshmudgal
 - 👀 I’m interested in Web Development by python django.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on new ideas.
 - 📫 How to reach me ->nageshmudgal70@gmail.com
 
